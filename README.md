@@ -7,9 +7,6 @@ This project focuses on implementing and visualizing multispectral imaging techn
 ## Project Overview
 This project uses MATLAB to load, process, and visualize multispectral images from different bands. It implements techniques for image filtering, contrast enhancement, and visual inspection of various bands, allowing users to observe features like vegetation health, water presence, and more.
 
-## Files
-- **`Multispectral_imaging.m`**: Contains the MATLAB code to read and process multispectral images, applying various techniques like image filtering and enhancement.
-- **`sample_image.tif`** (not provided): A sample multispectral image used in the script. You need to provide your own image.
 
 ## Prerequisites
 - MATLAB installed with the Image Processing Toolbox.
